@@ -1,5 +1,5 @@
 # pineapple
- Is pineapple project
+ 前端学习项目
 
 ------
 
